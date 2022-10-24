@@ -18,9 +18,6 @@
 <!-- JavaScript -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" align="left">](https://www.javascript.com/)
 
-<!-- jQuery -->
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50" align="left">](https://jquery.com/)
-
 <!-- Material-UI -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" align="left">](https://mui.com/)
 
@@ -44,9 +41,6 @@
           
 <!-- Git -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" align="left">](https://git-scm.com/)
-          
-<!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
 
 ### GitHub stats
 ---
