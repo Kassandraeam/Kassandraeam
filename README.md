@@ -1,7 +1,7 @@
 [![@kas's Holopin board](https://holopin.io/api/user/board?user=kas)](https://holopin.io/@kas)
 
 - 👋 Hi, I’m @Kassandraeam, pronouns are (She/her/hers).
-- 👀 I’m enrolled in [Prime Digital Academy's Fullstack Software Engineering program!](https://www.primeacademy.io/courses/engineering#curriculum) I will be graduating in October 2022! 
+- 👀 I've graduated from [Prime Digital Academy's Fullstack Software Engineering program!](https://www.primeacademy.io/courses/engineering#curriculum)
 
 - My [Codewars profile](https://www.codewars.com/users/Kassandraeam)
 - My [Edabit profile](https://edabit.com/user/nsLN3CkrihAdNbAo7)
