@@ -1,6 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassandraeam&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kassandraeam&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassandraeam&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kassandraeam&theme=tokyonight)
 
 - 👋 Hi, I’m @Kassandraeam, pronouns are (She/her/hers).
 - 👀 I've graduated from [Prime Digital Academy's Fullstack Software Engineering program!](https://www.primeacademy.io/courses/engineering#curriculum)
