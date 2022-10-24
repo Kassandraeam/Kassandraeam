@@ -1,9 +1,10 @@
 # About Me
 [<img src="https://img.shields.io/badge/LinkedIn-KasEam-%230A66C2"/>](https://www.linkedin.com/in/kaseam/)
 [<img src="https://img.shields.io/badge/Email-Let's%20Talk!-%230A66C2"/>](mailto:kassandraeam@gmail.com)
-- My name is Kas Eam (she/her)
-- I'm a Full Stack Software Engineer based in Minneapolis, Minnesota!
-- I've recently graduated from [Prime Digital Academy](https://www.primeacademy.io/) with a certificate in Full Stack Software Engineering!
+<img src="https://user-images.githubusercontent.com/31658826/197651320-9e0c4ae6-8a2f-45c1-abe0-51554f7e8e3d.gif" width="250" height="250" align="right"/>
+- My name is **Kas Eam** (she/her)
+- I'm a **Full Stack Software Engineer** based in Minneapolis, Minnesota!
+- I've recently graduated from [Prime Digital Academy](https://www.primeacademy.io/) with a certificate in **Full Stack Software Engineering**!
 - Feel free to shoot me an email using the badge above, or connect with me on LinkedIn!
 
 # Tech I know! 
