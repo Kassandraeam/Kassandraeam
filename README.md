@@ -1,14 +1,12 @@
 # About Me
 [<img src="https://img.shields.io/badge/LinkedIn-KasEam-%230A66C2"/>](https://www.linkedin.com/in/kaseam/)
 [<img src="https://img.shields.io/badge/Email-Let's%20Talk!-%230A66C2"/>](mailto:kassandraeam@gmail.com)
----
 - My name is Kas Eam (she/her)
 - I'm a Full Stack Software Engineer based in Minneapolis, Minnesota!
 - I've recently graduated from [Prime Digital Academy](https://www.primeacademy.io/) with a certificate in Full Stack Software Engineering!
 - Feel free to shoot me an email using the badge above, or connect with me on LinkedIn!
 
 # Tech I know! 
----
 <!-- HTML -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" align="left"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -46,12 +44,10 @@
 <br></br>
 
 # GitHub stats
----
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassandraeam&show_icons=true&theme=tokyonight)
 <br></br>
 
 # Holopin Board
----
 [![@kas's Holopin board](https://holopin.io/api/user/board?user=kas)](https://holopin.io/@kas)
 
 <!---
