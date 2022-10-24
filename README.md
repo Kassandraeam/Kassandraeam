@@ -44,11 +44,10 @@
 <br></br>
 
 # GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassandraeam&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kassandraeam&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kassandraeam&theme=2077)&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kassandraeam&theme=2077&utcOffset=8)
 <br></br>
-
-# Holopin Board
-[![@kas's Holopin board](https://holopin.io/api/user/board?user=kas)](https://holopin.io/@kas)
 
 <!---
 Kassandraeam/Kassandraeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,5 +60,6 @@ You can click the Preview link to take a look at your changes.
 ## This is how you use an icon from devicon.dev and adjust the size:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassandraeam&show_icons=true&theme=2077)
+[![@kas's Holopin board](https://holopin.io/api/user/board?user=kas)](https://holopin.io/@kas)
 --->
