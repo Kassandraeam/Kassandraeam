@@ -6,7 +6,7 @@
 - My name is **Kas Eam** (she/her)
 - I'm a **Full Stack Software Engineer** based in Minneapolis, Minnesota!
 - I've recently graduated from [Prime Digital Academy](https://www.primeacademy.io/) with a certificate in **Full Stack Software Engineering**!
-- Feel free to shoot me an email using the badge above, or connect with me on LinkedIn!
+- Feel free to shoot connect with me on LinkedIn or shoot me an email using the badges above! 
 <br></br>
 
 # Tech I know! 
